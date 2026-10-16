@@ -1,8 +1,8 @@
-#Bonjour bienvenue sur cette présentation du **BlackJack**
+# Bonjour bienvenue sur cette présentation du **BlackJack**
 
 Le **blackjack** est un évolution du jeu de carte 31
 
-###But Du Jeu
+### But Du Jeu
 La partie oppose individuellement chaque joueur à la banque. Le but est de battre le [croupier](https://fr.wikipedia.org/wiki/Croupier) sans dépasser le score de 21. Dès qu'un joueur fait plus que 21, on dit qu'il « brûle » et il perd sa mise initiale. Les valeurs des cartes sont les suivantes :
 
  * de 2 à 9 : valeur nominale de la carte ;

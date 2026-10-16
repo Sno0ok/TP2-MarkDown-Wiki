@@ -1,6 +1,6 @@
 # Bonjour bienvenue sur cette présentation du **BlackJack**
 
-## l'histoire DU BlackJack
+## l'histoire Du BlackJack
 
 Le **blackjack** est un évolution du jeu de carte 31. Il est arrivée en France a la fin du 18ème siècle 
 À l'époque, le vingt-et-un se jouait surtout dans les salons et les salles de jeu françaises. Le principe était déjà le même qu'aujourd'hui : s'approcher le plus possible de 21 sans jamais le dépasser.

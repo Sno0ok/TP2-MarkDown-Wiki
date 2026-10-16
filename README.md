@@ -34,7 +34,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "21 pour etre riche!" << endl;
     return 0;
 }
 ```

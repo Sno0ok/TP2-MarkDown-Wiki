@@ -1,6 +1,13 @@
 # Bonjour bienvenue sur cette présentation du **BlackJack**
 
+## l'histoire DU BlackJack
+
 Le **blackjack** est un évolution du jeu de carte 31. Il est arrivée en France a la fin du 18ème siècle 
+À l'époque, le vingt-et-un se jouait surtout dans les salons et les salles de jeu françaises. Le principe était déjà le même qu'aujourd'hui : s'approcher le plus possible de 21 sans jamais le dépasser.
+
+Le jeu a ensuite voyagé jusqu'aux États-Unis au 19e siècle. Pour attirer du monde, certaines salles offraient un bonus aux joueurs qui tombaient sur un as de pique avec un valet noir, ce qu'on appelait un « black jack ». Le bonus a vite disparu, mais le nom, lui, est resté !
+
+Le jeu devient vraiment célèbre à partir de 1931, quand le Nevada autorise les jeux d'argent. Le blackjack s'installe alors dans les casinos de Las Vegas et devient l'un des jeux les plus populaires au monde.
 
 ### But Du Jeu
 La partie oppose individuellement chaque joueur à la banque. Le but est de battre le [croupier](https://fr.wikipedia.org/wiki/Croupier) sans dépasser le score de 21. Dès qu'un joueur fait plus que 21, on dit qu'il « brûle » et il perd sa mise initiale. 

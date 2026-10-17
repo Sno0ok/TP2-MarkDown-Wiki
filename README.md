@@ -24,7 +24,8 @@ ___
 
 | Black Jack                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------|
-|<img width="250" height="376" alt="image" src="https://github.com/user-attachments/assets/9e5db188-b7cc-48d4-a9f9-e8b4ae68e0d0" /> |
+|<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/82ed3347-f58d-43b9-9423-ba166357c325" />
+|
 | Autres Nom          :   Black Jack, Black-Jack, Vingt-et-un                                                     |
 | Date de 1er édition :   Fin du XVIIIe siècle                |
 | Format              :   Jeu de cartes                            |
